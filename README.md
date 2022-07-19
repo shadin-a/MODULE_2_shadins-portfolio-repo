@@ -7,4 +7,4 @@ however that is still above my pay grade as of now.
 </br>
 https://shadin-a.github.io/shadins-portfolio-repo/
 </br>
-![my screenshot](./assets/images/myscreenshot.png)
+![Screen Shot 2022-07-18 at 9.54.51 PM.png](./assets/images/myscreenshot.png)
